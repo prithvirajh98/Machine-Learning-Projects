@@ -11,4 +11,4 @@ End to End Machine Learning Project - Prediction of Selling Price of a Car.
 4. Launch the Jupyter notebook
 	Cmd : jupyter notebook
 
-5. Video Link: ![CarPricePrediction] [https://www.youtube.com/watch?v=p_tpQSY1aTs]
+5. Video Link: ![CarPricePrediction]https://www.youtube.com/watch?v=p_tpQSY1aTs
