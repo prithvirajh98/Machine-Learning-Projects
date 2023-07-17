@@ -13,5 +13,4 @@ End to End Machine Learning Project - Prediction of Selling Price of a Car.
 
 5. Video Link: https://www.youtube.com/watch?v=p_tpQSY1aTs
 
-6. Output Image : (![Car Price Predictions](https://github.com/prithvirajh98/Machine-Learning-Projects/assets/127682525/f4ba0dd1-955b-49ba-a92e-f77c376fdd1c)
-)
+6. Output Image : ![Car Price Predictions](https://github.com/prithvirajh98/Machine-Learning-Projects/assets/127682525/f4ba0dd1-955b-49ba-a92e-f77c376fdd1c)
