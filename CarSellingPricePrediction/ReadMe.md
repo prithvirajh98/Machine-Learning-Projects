@@ -1,13 +1,6 @@
 End to End Machine Learning Project - Prediction of Selling Price of a Car.
 
-1. The dataset has been acquired from Kaggale
 
-2. Create a new environment
-	Environment Name : CarPricePrediction
 
-3. Copy the work path and enter into that particular directory
 
-4. Launch the Jupyter notebook
-	Cmd : jupyter notebook
-
-5. Output Image : ![Car Price Predictions](https://github.com/prithvirajh98/Machine-Learning-Projects/assets/127682525/f4ba0dd1-955b-49ba-a92e-f77c376fdd1c)
+![Car-Price-Prediction](https://github.com/prithvirajh98/Machine-Learning-Projects-YouTube/assets/127682525/75e29168-f255-49ed-b212-406b705beaa6)
