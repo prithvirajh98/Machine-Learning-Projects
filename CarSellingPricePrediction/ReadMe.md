@@ -21,6 +21,8 @@ The columns in the given dataset are as follows:
  
 	◊ Owner
 
+ 
+
 	2. Creating an Environment
 		a. Create an Environment with specific Python version
 			→ conda create -n CarPricePrediction Python=3.11
