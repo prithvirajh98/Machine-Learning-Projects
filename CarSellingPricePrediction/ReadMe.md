@@ -17,7 +17,8 @@ The columns in the given dataset are as follows:
 		a. Create an Environment with specific Python version
 			→ conda create -n CarPricePrediction Python=3.11
 		b. Activate the newly created environment
-conda activate CarPricePrediction
+			→ conda activate CarPricePrediction
+
 
 
 ![Car-Price-Prediction](https://github.com/prithvirajh98/Machine-Learning-Projects-YouTube/assets/127682525/75e29168-f255-49ed-b212-406b705beaa6)
