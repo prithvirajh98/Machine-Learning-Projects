@@ -60,9 +60,6 @@ Note: Since the Training and Testing data were divided into 2 separate files, th
 			§ SelectKBest
 		1. Correlation between Independent and Dependent Features:
 
-
-
-				
 		○ If the 2 independent features are highly correlated then either one of the features can be dropped since both the features will be doing the same task.
 		○ Duration_Hours and Total Stops, Duration_Hours and Price, Total_Stops and Price are highly correlated are highly correlated.
 	2. Extracting Important Features using ExtraTreesRegressor:
@@ -70,11 +67,6 @@ Note: Since the Training and Testing data were divided into 2 separate files, th
 			§ ExtraTreesRegressor helps to find the feature importance. It helps to find out which feature is highly correlated with the dependent feature.
 			§ The ExtraTreesRegressor algorithm is like random forest algorithm, creates many decision trees, but the sampling for each tree is random, without replacement.
 			§ This creates a dataset for each tree with unique samples. A specific number of features, from the total set of features are also selected randomly for each tree.
-	
-	
-				
-	
-	
 			§ From the above figure, Total_Stops is the most important feature and followed by Day_of_Journey.
 		
 	◊ Building the Predictive Model:
@@ -87,12 +79,6 @@ Note: Since the Training and Testing data were divided into 2 separate files, th
 			§ Visualise the result.
 			§ Do the scaling if required => Scaling is not done in Random Forest.
 		2. The Gaussian Distribution.
-
-						
-	
-	
-					
-	
 			§ The Rsquared Score: 
 				□ The R² score ranges from -∞ to 1, where:
 					1 indicates a perfect fit, meaning that all movements of the dependent variable (your target variable) are completely explained by the independent variables (your features or predictors).
@@ -111,6 +97,3 @@ Note: Since the Training and Testing data were divided into 2 separate files, th
 	
 	◊ Conclusion:
 		○ With the help of machine learning algorithms applied on the dataset, the system will be able to predict the dynamic fare of the flight, which can be used to obtain the cheapest flight ticket possible. By calculating the R-Squared values from the algorithm, we are able to determine the accuracy of the model.
-
-
-	Note : pip install scikit-learn==1.0.2
