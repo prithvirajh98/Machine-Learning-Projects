@@ -1,0 +1,21 @@
+body {
+    background-color: #e1f4f3;
+    text-align: center;
+
+    background-image: url('Airline4.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.navbar {
+    background-color: #333333;
+}
+
+a {
+    color: #f1f9f9;
+}
+
+a:hover {
+    color: #f0f0f0;
+  }
